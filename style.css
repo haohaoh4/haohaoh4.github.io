@@ -1,0 +1,16 @@
+<style>
+a{
+	color:red
+}
+b{
+	background-color:yellow
+}
+body{
+	background:green;
+}
+.thing{
+	background-color:#0FC;
+	text-align:center;
+	text-decoration:underline
+}
+</style>
